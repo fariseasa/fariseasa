@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
-    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" width="80"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://icons8.com/icon/11566/microsoft-excel)" width="55" height="55" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
   </tr>
 </table>
 
