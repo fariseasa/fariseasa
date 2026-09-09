@@ -94,6 +94,7 @@
 <table align="center">
   <tr>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/><br/><sub>C</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/><br/><sub>C++</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"/><br/><sub>SQL</sub></td>
   </tr>
@@ -105,6 +106,7 @@
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55" alt="Keras"/><br/><sub>Keras</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
     <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5YR0I8L3RleHQ+PC9zdmc+" width="55" height="55" alt="XGBoost"/><br/><sub>XGBoost</sub></td>
     <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5SRjwvdGV4dD48L3N2Zz4=" width="55" height="55" alt="Random Forest"/><br/><sub>Random Forest</sub></td>
     <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5EVDwvdGV4dD48L3N2Zz4=" width="55" height="55" alt="Decision Trees"/><br/><sub>Decision Trees</sub></td>
@@ -141,6 +143,7 @@
 <table align="center">
   <tr>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/><br/><sub>AWS</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/><sub>Docker</sub></td>
   </tr>
 </table>
@@ -164,6 +167,7 @@
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" height="55" alt="PyCharm"/><br/><sub>PyCharm</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/><sub>Git</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="80"><img src="https://cdn.simpleicons.org/githubactions/A78BFA" width="55" height="55" alt="GitHub Actions"/><br/><sub>GH Actions</sub></td>
     <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5QQkk8L3RleHQ+PC9zdmc+" width="55" height="55" alt="Power BI"/><br/><sub>Power BI</sub></td>
   </tr>
 </table>
@@ -173,7 +177,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fariseasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fariseasa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariseasa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
