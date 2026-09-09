@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://linkedin.com/in/faris-easa" target="_blank">
+      <a href="[https://linkedin.com/in/faris-easa](https://www.linkedin.com/in/fariseasa/)" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
       </a>
       <br/><sub>LinkedIn</sub>
@@ -77,16 +77,16 @@
 <h3 align="center">GenAI / LLMs</h3>
 <table align="center">
   <tr>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" width="55" height="55" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55" alt="Gemini"/><br/><sub>Gemini</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55" alt="Groq"/><br/><sub>Groq</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/groq.svg" width="55" height="55" alt="Groq"/><br/><sub>Groq</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55" alt="Ollama"/><br/><sub>Ollama</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/langchain/A78BFA" width="55" height="55" alt="LangChain"/><br/><sub>LangChain</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/langgraph/A78BFA" width="55" height="55" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/meta/A78BFA" width="55" height="55" alt="RAG"/><br/><sub>RAG</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5SQUc8L3RleHQ+PC9zdmc+" width="55" height="55" alt="RAG"/><br/><sub>RAG</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/meta/A78BFA" width="55" height="55" alt="FAISS"/><br/><sub>FAISS</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/chromadb/A78BFA" width="55" height="55" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/tavily/A78BFA" width="55" height="55" alt="Tavily"/><br/><sub>Tavily</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5DaHJvbWE8L3RleHQ+PC9zdmc+" width="55" height="55" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/tavily-color.svg" width="55" height="55" alt="Tavily"/><br/><sub>Tavily</sub></td>
   </tr>
 </table>
 
@@ -105,7 +105,7 @@
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55" alt="Keras"/><br/><sub>Keras</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/xgboost/A78BFA" width="55" height="55" alt="XGBoost"/><br/><sub>XGBoost</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5YR0I8L3RleHQ+PC9zdmc+" width="55" height="55" alt="XGBoost"/><br/><sub>XGBoost</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/scikitlearn/A78BFA" width="55" height="55" alt="Random Forest"/><br/><sub>Random Forest</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/scikitlearn/A78BFA" width="55" height="55" alt="Decision Trees"/><br/><sub>Decision Trees</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/scikitlearn/A78BFA" width="55" height="55" alt="KNN"/><br/><sub>KNN</sub></td>
@@ -124,8 +124,8 @@
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/plotly/A78BFA" width="55" height="55" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/plotly/A78BFA" width="55" height="55" alt="Seaborn"/><br/><sub>Seaborn</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/nltk/A78BFA" width="55" height="55" alt="NLTK"/><br/><sub>NLTK</sub></td>
-    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="55" height="55" alt="Excel"/><br/><sub>Excel</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5OTFRLPC90ZXh0Pjwvc3ZnPg==" width="55" height="55" alt="NLTK"/><br/><sub>NLTK</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5FeGNlbDwvdGV4dD48L3N2Zz4=" width="55" height="55" alt="Excel"/><br/><sub>Excel</sub></td>
   </tr>
 </table>
 
@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
-    <td align="center" width="80"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://icons8.com/icon/11566/microsoft-excel)" width="55" height="55" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
   </tr>
 </table>
 
@@ -150,7 +150,7 @@
   <tr>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/><sub>MySQL</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/><br/><sub>SQLite</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/chromadb/A78BFA" width="55" height="55" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5DaHJvbWE8L3RleHQ+PC9zdmc+" width="55" height="55" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
     <td align="center" width="80"><img src="https://cdn.simpleicons.org/meta/A78BFA" width="55" height="55" alt="FAISS"/><br/><sub>FAISS</sub></td>
   </tr>
 </table>
@@ -164,7 +164,7 @@
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" height="55" alt="PyCharm"/><br/><sub>PyCharm</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/><sub>Git</sub></td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="80"><img src="https://cdn.simpleicons.org/powerbi/A78BFA" width="55" height="55" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td align="center" width="80"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NSIgaGVpZ2h0PSI1NSIgdmlld0JveD0iMCAwIDU1IDU1Ij48cmVjdCB3aWR0aD0iNTUiIGhlaWdodD0iNTUiIHJ4PSIxMiIgZmlsbD0iIzE2MUIyMiIgc3Ryb2tlPSIjQTc4QkZBIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjQTc4QkZBIj5QQkk8L3RleHQ+PC9zdmc+" width="55" height="55" alt="Power BI"/><br/><sub>Power BI</sub></td>
   </tr>
 </table>
 
